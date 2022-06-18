@@ -38,7 +38,7 @@ SERVER ='smtp.gamil.com' #"your smtp server"
 PORT = 587 # your port no
 FROM = "gowritech21@gmail.com"
 TO = " senthilvel1977@gmail.com"
-PASS = "sitech22#"
+PASS = "******"
 
 #fp= open(file_name,'rb')
 #Create a text /plain message
